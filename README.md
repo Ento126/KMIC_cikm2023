@@ -1,6 +1,6 @@
 # KMIC
 This is our Pytorch implementation for the paper:
-KMIC: A Knowledge-aware Recommendation with Multivariate Intentions Contrastive Learning, (underReview).
+KMIC: A Knowledge-aware Recommendation with Multivariate Intentions Contrastive Learning, (under review).
 
 # Introduction
 Knowledge graph (KG) has been widely applied for recommendation systems (RS) due to its rich structured semantic information. A recent technical trend is to develop graph neural networks with self-supervised Learning (SSL) founded on KG to relieve the data sparsity and noise issues. However, these models fail to (i) integrate the multivariate intention feature and (ii) capture the multi-intent self-supervised signals.
